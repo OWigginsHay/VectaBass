@@ -63,5 +63,6 @@ Distributed under the MIT License. See LICENSE for more information.
 ## Contact
 Your Name - @YourTwitter - email
 
-Project Link: https://github.com/yourusername/vectabass
+Project Link: [https://github.com/yourusername/vectabass](https://github.com/OWigginsHay/VectaBass)
+Website Link: https://www.vectabass.com
 

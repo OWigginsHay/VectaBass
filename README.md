@@ -61,7 +61,7 @@ We welcome contributions from the community. Whether you're fixing a bug, adding
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Your Name - @YourTwitter - email
+Oliver Wiggins-Hay - oliver.wigginshay@vectabass.com
 
 - Project Link: [https://github.com/yourusername/vectabass](https://github.com/OWigginsHay/VectaBass)
 - Website Link: https://www.vectabass.com

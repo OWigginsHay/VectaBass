@@ -58,7 +58,7 @@ We welcome contributions from the community. Whether you're fixing a bug, adding
 - Open a Pull Request
 
 ## License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under a dual (GPL) v3 License. See LICENSE for more information.
 
 ## Contact
 Oliver Wiggins-Hay - oliver.wigginshay@vectabass.com
